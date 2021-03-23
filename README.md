@@ -28,5 +28,5 @@ The designs are in JPG static format. Using JPGs will mean that you'll need to u
 
 [Sample of expected webpage](./design/desktop-design.jpg)
 
-[Sample of expected webpage](./testimonial-preview.png)
+[My replication of the webpage](./testimonial-preview.png)
 
